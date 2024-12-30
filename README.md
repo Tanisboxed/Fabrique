@@ -82,25 +82,25 @@ If you have any feedback, please reach out to me at tanishajauhari2202@gmail.com
 ## Run Locally
 
 1. **Clone the project**  
-   `git clone https://github.com/Tanisboxed/fabrique`
+   ```git clone https://github.com/Tanisboxed/fabrique```
 
 2. **Navigate to the project directory**  
-   `cd fabrique`
+   ```cd fabrique```
 
 3. **Install dependencies**  
-   `npm install`  
-   or  
-   `yarn install`
+   ```npm install
+   #or
+   yarn install```
 
-4. **Start the development server**  
-   `npm run dev`  
-   or  
-   `yarn dev`
+5. **Start the development server**  
+   ```npm run dev 
+   #or  
+   yarn dev```
 
-5. **ESLint + Prettier + Lint-Staged Checks**  
-   `npm run lint`  
-   `npm run format`  
-   `npm run check-types`
+6. **ESLint + Prettier + Lint-Staged Checks**  
+   ```npm run lint  # format code and fix prettier erros
+   npm run format   # check code format
+   npm run check-types  # check-types errors```
 
 ## Closing Remarks
 Thank you for checking out Fabrique! This project is a continuous work in progress, and I am excited to keep improving and adding new features to create a seamless fashion e-commerce experience. Whether you're a fellow developer, a designer, or a user, your feedback and contributions are highly appreciated. Feel free to explore, test, and let me know how I can make the project better!
