@@ -13,7 +13,7 @@ A full-stack fashion e-commerce platform allowing users to browse and shop a var
 - [Run Locally](#run-locally)
 
 ## Author
-@Tanisboxed - Tanisha Jauhari
+[@TanishaJauhari](https://github.com/Tanisboxed)
 
 ## Technologies
 **Client:**
