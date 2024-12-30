@@ -3,23 +3,20 @@
 A full-stack fashion e-commerce platform allowing users to browse and shop a variety of fashion products, featuring a sleek, responsive UI and smooth user experience.
 
 ## Table of Contents
----
+
 - [Author](#author)
 - [Technologies](#technologies)
 - [Optimizations](#Optimizations)
-- [Contributing](#contributing)
 - [Features](#features)
-- [Support](#support)
+- [Contributions](#contributions)
+- [Status](#status)
 - [Feedback](#feedback)
 - [Run Locally](#run-locally)
-- [Screenshots](#screenshots)
 
 ## Author
----
 @Tanisboxed - Tanisha Jauhari
 
 ## Technologies
----
 **Client:**
 - React.js
 - Next.js
@@ -35,7 +32,7 @@ A full-stack fashion e-commerce platform allowing users to browse and shop a var
 - Heroku Hosting
 
 ## Optimizations
----
+
 - Next.js **Image** component for optimized image loading
 - Next.js **file-system based routing**
 - Next.js **Server-side rendering** (SSR)
@@ -45,7 +42,7 @@ A full-stack fashion e-commerce platform allowing users to browse and shop a var
 - TypeScript for type safety
 
 ## Features
---- 
+
 **(Users)**  
 - Complete user authentication (Sign In, Sign Out, Register)
 - Forgot password and change password features
@@ -63,29 +60,24 @@ A full-stack fashion e-commerce platform allowing users to browse and shop a var
 - Admin panel for managing users and products
 - Email notifications for orders and promotions
 
----
 
-## Contributing
+## Contributions
 Contributions are always welcome!  
 Feel free to open **issues** and submit **pull requests**.
 
----
 
-### Status
+## Status
 - Project is: **In progress** (Features being added)
 
----
 
-### Inspiration
+## Inspiration
 - Project inspired by fashion e-commerce platforms like **Zara**, and **Amazon Fashion**.
 
-### Feedback
-If you have any feedback, please reach out to me at tanisha.jauhari@example.com
+## Feedback
+If you have any feedback, please reach out to me at tanishajauhari2202@gmail.com
 
 - [LinkedIn](www.linkedin.com/in/tanishaj-in)
 - [GitHub](https://github.com/Tanisboxed)
-
----
 
 ## Run Locally
 
@@ -109,8 +101,6 @@ If you have any feedback, please reach out to me at tanisha.jauhari@example.com
    `npm run lint`  
    `npm run format`  
    `npm run check-types`
-
----
 
 ## Closing Remarks
 Thank you for checking out Fabrique! This project is a continuous work in progress, and I am excited to keep improving and adding new features to create a seamless fashion e-commerce experience. Whether you're a fellow developer, a designer, or a user, your feedback and contributions are highly appreciated. Feel free to explore, test, and let me know how I can make the project better!
