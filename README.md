@@ -1,5 +1,4 @@
 # Fabrique-Ecommerce
----
 A full-stack fashion e-commerce platform allowing users to browse and shop a variety of fashion products, featuring a sleek, responsive UI and smooth user experience.
 
 ## Table of Contents
@@ -88,17 +87,20 @@ If you have any feedback, please reach out to me at tanishajauhari2202@gmail.com
    ```cd fabrique```
 
 3. **Install dependencies**  
-   ```npm install
+   ```
+   npm install
    #or
    yarn install```
 
 5. **Start the development server**  
-   ```npm run dev 
+   ```
+   npm run dev 
    #or  
    yarn dev```
 
 6. **ESLint + Prettier + Lint-Staged Checks**  
-   ```npm run lint  # format code and fix prettier erros
+   ```
+   npm run lint  # format code and fix prettier erros
    npm run format   # check code format
    npm run check-types  # check-types errors```
 
