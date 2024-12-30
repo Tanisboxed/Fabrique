@@ -6,6 +6,7 @@ A full-stack fashion e-commerce platform allowing users to browse and shop a var
 ---
 - [Author](#author)
 - [Technologies](#technologies)
+- [Optimizations](#Optimizations)
 - [Contributing](#contributing)
 - [Features](#features)
 - [Support](#support)
