@@ -28,7 +28,7 @@ A full-stack fashion e-commerce platform allowing users to browse and shop a var
 - MongoDB (or other DB options)
 - JSON Web Token (JWT) for authentication
 - bcryptjs (for password hashing)
-- Heroku Hosting
+- Render Hosting
 
 ## Optimizations
 
