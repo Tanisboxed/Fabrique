@@ -9,19 +9,18 @@ export default {
   theme: {
     extend: {
       container: {
-        center:true,
-        padding: "15px"
+        center: true,
+        padding: "15px",
       },
-
       colors: {
         offwhitel: "#F2F0F1",
         offwhited: "#F0EEED",
-        sortofblack: "#1b1b1b"
+        sortofblack: "#1b1b1b",
       },
-      fontFamily:{
-        satoshi: ['Satoshi-Variable', 'sans-serif'],
-        icf: ['FONTSPRING-DEMO-INTEGRALCF-BOLD.otf', 'sans-serif'],
-      }
+      fontFamily: {
+        satoshi: ["Satoshi-Variable", "sans-serif"],
+        icf: ["FONTSPRING-DEMO-INTEGRALCF-BOLD.otf", "sans-serif"],
+      },
     },
   },
   plugins: [],

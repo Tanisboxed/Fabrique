@@ -1,23 +1,26 @@
-import Image from "next/image";
-import HeaderTop from "./components/HeaderTop";
-import Hero from "./components/Hero";
-import Newarrivals from "./components/Newarrivals";
-import Category from "./components/Category";
-import Reviews from "./components/Reviews";
-import Footer from "./components/Footer";
+import Hero from "@/components/home/hero";
+import Reviews from "@/components/review/Reviews";
+import ProductSection from "@/components/shared/product-section";
+import CategorySection from "@/components/category/category-section";
 
-const getData = async()=>{
-
-}
-
-
-export default function Home() {
+export default function HomePage() {
   return (
     <main>
       <Hero />
-      <Category />
+      <ProductSection
+        id="new-arrivals"
+        title="NEW ARRIVALS"
+        endpoint="https://fabriqueapi.onrender.com/api/products?limit=4"
+        linkUrl="/products"
+      />
+      <ProductSection
+        id="sale"
+        title="Top selling"
+        endpoint="https://fabriqueapi.onrender.com/api/products?limit=4"
+        linkUrl="/products"
+      />
+      <CategorySection />
       <Reviews />
-      <Footer />
     </main>
   );
 }
