@@ -102,13 +102,19 @@ You can access the live website here: [Frontend - Vercel](https://fabrique-tau.v
 The backend API is deployed on Render. 
 You can access the live backend API here: [Backend - Render](https://fabriqueapi.onrender.com)
 
-**API Endpoints**
+## API Endpoints
 - Retrieve the list of all products:
+  ```https
   GET https://fabriqueapi.onrender.com/api/products
+  ```
 - Retrieve details of a specific product:
+  ```https
   GET https://fabriqueapi.onrender.com/api/products/product/:id
+  ```
 - Retrieve search results based on the query:
+  ```https
   GET https://fabriqueapi.onrender.com/api/products?keyword=#
+  ```
   
 Feel free to explore the available API endpoints!
 
